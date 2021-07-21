@@ -2,5 +2,9 @@
     "DF(ASCENT)2": {
         "names": ["James", "Ellie", "Matt"],
         "company": "Ascential"
+    },
+    "DF(COMPANY)1": {
+        "names": ["Bill", "Ramona", "Bobby", "Maya"],
+        "company": "The Company"
     }
 }
